@@ -20,3 +20,4 @@ $router = new Router(); //маршрутизатор - отправляет к �
 $router->run();
 
 
+debug($_SESSION);
