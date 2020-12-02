@@ -21,3 +21,4 @@ $router->run();
 
 
 debug($_SESSION);
+echo 'this is main page.';
